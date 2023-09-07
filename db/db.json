@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "name": "Md",
+      "email": "md@gmail.com",
+      "password": "md@123",
+      "id": 1
+    },
+    {
+      "email": "dc",
+      "name": "aas",
+      "password": "c",
+      "id": 2
+    },
+    {
+      "email": "dc",
+      "name": "aas",
+      "password": "c",
+      "id": 3
+    },
+    {
+      "email": "dc",
+      "name": "aas",
+      "password": "c@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "anil@gmail.com",
+      "name": "hussain",
+      "password": "akljflkjalgj",
+      "id": 5
+    },
+    {
+      "email": "peter@gmail.com",
+      "name": "peter",
+      "password": "pete@123",
+      "id": 6
+    },
+    {
+      "email": "sam@gmail.com",
+      "name": "sam",
+      "password": "sam@123",
+      "id": 7
+    },
+    {
+      "email": "shuv@gmail.com",
+      "name": "shub",
+      "password": "shu@123",
+      "id": 8
+    },
+    {
+      "email": "zuk@gmail.com",
+      "name": "zuk",
+      "password": "zuk@123",
+      "id": 9
+    },
+    {
+      "name": "Md",
+      "email": "md@gmail.com",
+      "password": "md@123",
+      "id": 10
+    },
+    {
+      "email": "hussain@gmail.com",
+      "name": "hussain",
+      "password": "hus@123",
+      "id": 11
+    },
+    {
+      "email": "shubham@gmail.com",
+      "name": "shubham",
+      "password": "shubham@123",
+      "id": 12
+    },
+    {
+      "email": "ilma@gmail.com",
+      "name": "ilma",
+      "password": "ilma@123",
+      "id": 13
+    },
+    {
+      "email": "mahi@gmail.com",
+      "name": "mahi",
+      "password": "mahi@123",
+      "id": 14
+    },
+    {
+      "email": "bro@gmail.com",
+      "name": "bro",
+      "password": "bro@123",
+      "id": 15
+    },
+    {
+      "email": "kotaro@gmail.com",
+      "name": "kotaro",
+      "password": "kotaro@123",
+      "id": 16
+    },
+    {
+      "email": "chandra@gmail.com",
+      "name": "chandra",
+      "password": "chandra@123",
+      "id": 17
+    },
+    {
+      "email": "pen@gmail.com",
+      "name": "pen",
+      "password": "pen@123",
+      "id": 18
+    },
+    {
+      "email": "aman@gmail.com",
+      "name": "aman ",
+      "password": "aman@123",
+      "id": 19
+    },
+    {
+      "email": "mike@gmail.com",
+      "name": "mike",
+      "password": "mike@123",
+      "id": 20
+    },
+    {
+      "email": "shubham@gmail.com",
+      "name": "shubham",
+      "password": "shu@123",
+      "id": 21
+    },
+    {
+      "email": "md@gmail.com",
+      "name": "md",
+      "password": "md@123",
+      "id": 22
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "McDonalds",
+      "address": "Okhla",
+      "contact": "111",
+      "id": 1
+    },
+    {
+      "name": "Anis Gamer",
+      "address": "mumbai",
+      "contact": "420",
+      "id": 2
+    },
+    {
+      "name": "Dominos",
+      "address": "Banglore",
+      "contact": "7654",
+      "id": 3
+    },
+    {
+      "name": "Burger king",
+      "address": "kolkata",
+      "contact": "3214",
+      "id": 4
+    }
+  ]
+}
